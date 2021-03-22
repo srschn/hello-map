@@ -589,8 +589,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"yes"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
