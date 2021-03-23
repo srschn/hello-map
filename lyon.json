@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/hello-map\/map.json"
+                 "value":"..\/hello-map\/map.json#entry_lyon"
                 }],
          "type":"tilelayer",
          "visible":true,
