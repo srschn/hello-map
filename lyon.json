@@ -91,7 +91,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"..\/hello-map\/music\/Of_Far_Different_Nature_-_Eastern_Treasures_(CC-BY)"
+                 "value":"..\/hello-map\/music\/Of_Far_Different_Nature_-_Eastern_Treasures_(CC-BY).mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
