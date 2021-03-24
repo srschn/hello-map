@@ -119,7 +119,7 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"onAction"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
