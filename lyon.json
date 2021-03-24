@@ -73,7 +73,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\/Music\/Enchanted_Woods_by_FarBeyond_Studio"
+                 "value":"..\/hello-map\/music\/Enchanted_Woods_by_FarBeyond_Studio"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"Of_Far_Different_Nature_-_Eastern_Treasures_(CC-BY)"
+                 "value":"..\/hello-map\/music\/Of_Far_Different_Nature_-_Eastern_Treasures_(CC-BY)"
                 }],
          "type":"tilelayer",
          "visible":true,
