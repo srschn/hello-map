@@ -91,12 +91,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/?Kv1gqIQcRee2"
+                 "value":"https:\/\/delfi-tagung.de\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke LEERTASTE, um mehr \u00fcber DELFI zu erfahren"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,7 +147,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/0ZgjmE6xdaw"
+                 "value":"https:\/\/www.youtube.com\/embed\/h7UqvALMONs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +180,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -972,7 +977,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -981,7 +986,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -990,7 +995,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
